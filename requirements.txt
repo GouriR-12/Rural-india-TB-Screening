@@ -1,0 +1,26 @@
+# Core Orchestration & Workflow
+langgraph>=0.2.0
+langgraph-checkpoint-sqlite>=2.0.0
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+
+# LLM Integration (Google GenAI SDK)
+google-genai>=0.1.0
+
+# User Interface & Web Dashboard
+streamlit>=1.35.0
+plotly>=5.20.0
+
+# Testing
+pytest>=8.0.0
+
+# Imaging, Data Science & Machine Learning (Optional/modular for subsequent tasks)
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+statsmodels>=0.14.0
+# Note: For PyTorch, install the appropriate wheel for your OS and CUDA setup:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+torch>=2.2.0
+torchvision>=0.17.0

@@ -1,0 +1,7 @@
+{
+  "model_provenance": "synthetic_demo",
+  "dataset_source": "synthetic_demo_cxr",
+  "disclaimer": "Research prototype, not clinically validated, not for real diagnosis.",
+  "status": "Pipeline smoke-test fixture only. Real-data training is BLOCKED (needs Kaggle download by user)."
+}
+
